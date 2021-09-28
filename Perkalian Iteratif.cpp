@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include <stdio.h>
  
 using namespace std;
 int kali (int m,int n)
